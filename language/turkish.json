@@ -1,0 +1,16 @@
+ 
+ {
+ 
+   "saklfkahlsfhklashkflhkl": "Kullanımı Bilmiyorsanız \"dil yardım\" yazınız.",
+
+   "dil":{
+    "args0": "Kullanımı Bilmiyorsanız \"**dil yardım**\" yazınız.",
+    "args1": "Bir Seçenek Belirtiniz \"**en / tr**\"",
+    "help": "`\n**dil ayarla (en/tr)**: Botun Dilini İstediğiniz Dilde Değiştirir\n**dil sıfırla**: Botun Dilini Sıfırlar\n**dil yardım**: Dil Değiştirme Komutlarını Gösterir`"
+   },
+
+   "ping":{
+   "cevap": "`Pingim`"
+   }
+
+ }
