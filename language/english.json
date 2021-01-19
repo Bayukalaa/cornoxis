@@ -1,0 +1,15 @@
+{
+    "asflkjasfkghlasfhklhkl": "If you do not know how to use it, write \"language help\"",
+
+    "dil":{
+        "args0": "If you do not know how to use it, write \"**language help**\"",
+        "args1": "Select an option \"**en / tr**\"",
+        "help": "`\n**language set (en/tr)**: Changes the Bot's Language to the Language You Want\n**language reset**: Resets the Bot's Language\n**language help**: Shows Language Change Commands`"
+    },
+
+    "ping":{
+        "cevap": "`My Ping`"
+        }
+ 
+  }
+ 
